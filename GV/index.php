@@ -27,9 +27,6 @@
 <!--  <iframe src="https://www.youtube.com/embed/_mn4Q5MDdoA" frameborder="0" allowfullscreen></iframe>
  -->
 </div>
-
-		
-
 		</div>
 	</div>
 	<div class="col-md-12">
