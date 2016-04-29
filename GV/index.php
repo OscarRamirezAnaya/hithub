@@ -26,6 +26,7 @@
 <div class="embed-responsive embed-responsive-16by9">
 <!--  <iframe src="https://www.youtube.com/embed/_mn4Q5MDdoA" frameborder="0" allowfullscreen></iframe>
  -->
+ <div>esto es del dba</div>
 </div>
 		</div>
 	</div>
